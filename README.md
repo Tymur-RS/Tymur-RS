@@ -6,7 +6,7 @@ I am profficient in Rust, Javascript (JS) & TypeScript (TS), Svelte & React fram
 <h3 align="center">Some of My GitHub Stats:</h3> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymur-RS&layout=compact&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tymur-Tykva&layout=compact&theme=transparent">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tymur-RS&show_icons=true&theme=transparent">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tymur-Tykva&show_icons=true&theme=transparent">
 </p>
