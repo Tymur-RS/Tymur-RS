@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello {user}! I'm Tymur</h2> 
-I'm an aspiring fullstack developer, who dabbles in Web3 and AI.<br>
-I am profficient in Rust, Javascript (JS) & TypeScript (TS), Svelte & React frameworks, as well as Python.
+I'm an 18 year old, aspiring fullstack developer, who dabbles in Web3 and AI.<br>
+I am profficient in Rust, TypeScript (TS), Svelte & React frameworks, as well as Python.
 
 ---
 <h3 align="center">Some of My GitHub Stats:</h3> 
